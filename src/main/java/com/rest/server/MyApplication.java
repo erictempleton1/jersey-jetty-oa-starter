@@ -4,6 +4,6 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 import javax.ws.rs.ApplicationPath;
 
-@ApplicationPath("/sample")
+@ApplicationPath("/api")
 public class MyApplication extends ResourceConfig {
 }
